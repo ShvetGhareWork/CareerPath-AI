@@ -51,6 +51,11 @@ const menuItems = [
     icon: Map,
   },
   {
+    title: "Career Form",
+    url: "/dashboard/career-form",
+    icon: User,
+  },
+  {
     title: "Insights & Analytics",
     url: "/dashboard/insights",
     icon: BarChart3,
